@@ -10,12 +10,11 @@
 ---
 
 ### 🔭 About me
-I’m **<Your Full Name>**, a <job title or student — e.g., "software engineer"> based in <City, Country>. I enjoy building full-stack applications and contributing to open-source. I focus on pragmatic solutions, clean code, and continuous learning.
+I’m Prakash Patel, a software engineer based in Ahmedabad, India. I enjoy building full-stack applications and contributing to open-source. I focus on pragmatic solutions, clean code, and continuous learning.
 
-- 🔭 Currently building: **<current project or role>**
-- 🌱 Learning: **<tech / topic>**
-- 💬 Ask me about: **JavaScript, TypeScript, Node.js, React, DevOps**
-- ⚡ Fun fact: **<one-line personal tidbit>**
+- 🔭 Currently building: mini RWA Platfrom
+- 🌱 Learning: NodeJs,JavaScript,React
+- 💬 Ask me about: avaScript, TypeScript, Node.js, React,*
 
 ---
 
@@ -30,10 +29,8 @@ I’m **<Your Full Name>**, a <job title or student — e.g., "software engineer
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square" />
+  <imag alt="Mongoose" src=" 
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-316192?logo=postgresql&style=flat-square" />
 </p>
 
